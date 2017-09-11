@@ -33,7 +33,14 @@ def main():
     colors = {
         'white': (255, 255, 255),
         'black': (0, 0, 0),
-        'cyan': (51, 204, 204)
+        'cyan': (51, 204, 204),
+        'red': (255, 0, 0),
+        'blue': (0, 0, 255),
+        'pink_purp': (255, 51, 204),
+        'purple': (204, 51, 255),
+        'pink': (255, 0, 128),
+        'yellow': (255, 255, 51),
+        'brown': (153, 102, 51)
     }
     photo = "photos/one.jpg"
     font = 'fonts/Jenthill.ttf'
