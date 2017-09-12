@@ -1,0 +1,9 @@
+alexbrush, fonts/AlexBrush.ttf
+chalkhand, fonts/Chalk-hand.ttf
+deedoodah, fonts/DeeDooDah.ttf
+destain, fonts/destain.ttf
+diamonddust, fonts/Diamond_Dust.ttf
+jenthill, fonts/Jenthill.ttf
+octobertwilight, fonts/OctoberTwilight.ttf
+waltdisney, fonts/WaltDisney.ttf
+watermelon, fonts/Watermelon_script.ttf
