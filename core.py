@@ -24,6 +24,15 @@ class PhotoEditor:
     def get_random_picture(self):
         return choice(self.pictures)
 
+    def get_filter_names(self):
+        return list(self.filters.keys())
+
+    def get_color_names(self):
+        return list(self.colors.keys())
+
+    def get_font_names(self):
+        return list(self.fonts.keys())
+
 
 class Photo:
     def __init__(self, filename, color, font, pfilter):

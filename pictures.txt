@@ -1,13 +1,10 @@
-photos/two.jpg
 photos/us.jpg
 photos/sunroof.jpg
 photos/ten.jpg
 photos/three.jpg
 photos/class.jpg
 photos/class_picture.jpg
-photos/edgar.jpg
 photos/eight.jpg
-photos/filter.jpg
 photos/filterr.jpg
 photos/five.jpg
 photos/four.jpg
@@ -22,6 +19,3 @@ photos/one.jpg
 photos/pic.jpg
 photos/pup.jpg
 photos/pups.jpg
-photos/ready.jpg
-photos/roof.jpg
-photos/sand.jpg
